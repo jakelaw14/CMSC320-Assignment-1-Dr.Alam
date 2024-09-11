@@ -1,0 +1,8 @@
+Q1: Why might be consider using git?
+
+Answer: One might consider to use git because of the ease it allows users 
+to manage their code, track their edits and progress, and save code at. It 
+is popular in companies when multiple people are working on a project at 
+once. It allows for some people to edit different pieces at either the 
+same or different times, then merge it together to combine their edits, 
+providing extreme efficiency.
