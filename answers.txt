@@ -1,3 +1,4 @@
+
 Q1: Why might be consider using git?
 
 Answer: One might consider to use git because of the ease it allows users 
@@ -6,3 +7,12 @@ is popular in companies when multiple people are working on a project at
 once. It allows for some people to edit different pieces at either the 
 same or different times, then merge it together to combine their edits, 
 providing extreme efficiency.
+
+Q2: What field could data science be applied to? Give and Example and how 
+it might help
+
+Answer: A field that data science could be applied is food 
+chain/restaurants. Using data science can give the owners of restaurants 
+an idea of what people enjoy the most, what they can do that will increase 
+the number of customers that come, and manage their resources in an 
+effective way, overall helping the total revenue they are taking in.
