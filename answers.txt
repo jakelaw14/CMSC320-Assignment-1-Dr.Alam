@@ -25,3 +25,10 @@ edits of two branches into one single branch. Rebasing on the other hand
 will rewrite the history by putting changes from one branch at the 
 beginning of another branch.
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: Skills I hope to improve during this course include being able to 
+process all types of data, and able to manipulate them in any way I need 
+to, to hopefully find the end goal result I was looking for. Not only this 
+but also being able to visualize the data, where in situations like side 
+projects, I can display the data and teach others about my findings.
