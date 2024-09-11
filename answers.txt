@@ -1,0 +1,8 @@
+Q2: What field could data science be applied to? Give and Example and how 
+it might help
+
+Answer: A field that data science could be applied is food 
+chain/restaurants. Using data science can give the owners of restaurants 
+an idea of what people enjoy the most, what they can do that will increase 
+the number of customers that come, and manage their resources in an 
+effective way, overall helping the total revenue they are taking in.
