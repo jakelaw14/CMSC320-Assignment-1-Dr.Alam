@@ -16,3 +16,12 @@ chain/restaurants. Using data science can give the owners of restaurants
 an idea of what people enjoy the most, what they can do that will increase 
 the number of customers that come, and manage their resources in an 
 effective way, overall helping the total revenue they are taking in.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging keeps the commit sequence intact by combining the two 
+edits of two branches into one single branch. Rebasing on the other hand 
+will rewrite the history by putting changes from one branch at the 
+beginning of another branch.
+
